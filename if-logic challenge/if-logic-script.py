@@ -7,16 +7,13 @@ print("")
 teams=  {
 "Team 7":
     {"Sensei": "Kakashi",
-    "members": "Naruto, Sakura, Sasuke, and now You!!",
-    "archenemy": "Sabertooth",},
-"harry potter":
-    {"real name": "Harry Potter",
-    "powers": "he's a wizard",
-    "archenemy": "Voldemort",},
-"agent fitz":
-    {"real name": "Leopold Fitz",
-    "powers": "intelligence",
-    "archenemy": "Hydra",}
+    "members": "Naruto, Sakura, Sasuke, and now You!!"},
+"Team Guy":
+    {"Sensei": "Might Guy",
+    "members": "You of course!, Rock Lee, Ten Ten, and Neji!"},
+"Team 10":
+    {"Sensei": "Asuma",
+    "members": "Your team leader Shikamaru, Ino, and Choji. Also the newest member you!! "}
         }
 
 your_squad = print(teams["Team 7"]["members"])
