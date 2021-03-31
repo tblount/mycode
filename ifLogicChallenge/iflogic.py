@@ -48,4 +48,3 @@ else:
         'Guy waited a year before entering them in the Chūnin Exams, though none of his apprentices were promoted at that time.\n Later, between the events of Parts I and II, Rock Lee and Tenten became chūnin while Neji Hyūga surpassed his teammates and rose to the ranks of jōnin. Despite becoming more busy, Neji still goes on missions with his team. \nAlong with the other members of the Konoha 11, Team Guy regrettably had decided to kill Sasuke Uchiha personally in order to prevent war between Konoha and Kumogakure or/and any of the other major nations, but were persuaded by Naruto Uzumaki that he would deal with Sasuke alone. '
         '\nDuring the events of the Fourth Shinobi World War, Neji was among those killed in the line of duty, and later Guy suffered a permanent injury which forced him to retire after the end of the war, leaving only Lee and Tenten remaining in active duty.')
 
-# next = input("What you like to know who else is on your team?")
