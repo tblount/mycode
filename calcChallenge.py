@@ -1,4 +1,4 @@
-# Python program for simple calculat
+#!/usr/bin/env python3
 
 # Functions for add,subtract,divide, and multiply
 def add(num1, num2):
